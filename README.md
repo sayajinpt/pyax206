@@ -4,6 +4,8 @@ A Python SDK for **AX206-based USB LCD photo-frame displays** (e.g. 3.5" 480×32
 
 On Aliexpress or similar websites we can get cheap usb lcd display to monitor the pc.
 
+<img width="579" height="743" alt="Captura de ecrã 2026-02-16 170005" src="https://github.com/user-attachments/assets/7ebcd794-0073-4439-8598-68d9b9885526" />
+
 they dont have hdmi and that makes everyone say that is not possible to use it as display for more than be controled by aida64 or similar programs.
 
 with this SDK we can use this displays for whatever use we want , if u need a cheap replace for a raspberry pi display u can use it. 
