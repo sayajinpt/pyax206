@@ -93,6 +93,10 @@ miner output
 my cat picture
 ![3630](https://github.com/user-attachments/assets/7bc0a16c-0569-4308-bdfe-252b9743cc6c)
 
+clock_matrix+info (avaiable in examples folder)
+![3633](https://github.com/user-attachments/assets/e4123958-7c80-45b3-ae16-bf92c6a0f3b9)
+
+
 clock_neon+ sys info (avaiable in examples folder)
 ![3629](https://github.com/user-attachments/assets/0270ec6f-e91d-4250-9176-d4501e664307)
 
