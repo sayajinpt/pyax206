@@ -17,6 +17,8 @@ U can use it to stream terminal app while leaving ur normal display clean.
 U can display video, images, text, 
 ETC...
 
+End of this file u can see some examples.
+
 **Protocol**
 - BOT-style CBW/CSW over bulk endpoints
 - Full-frame updates in **RGB565 big-endian**
@@ -81,3 +83,20 @@ pyax206 proc -- minerd.exe --algo=sha256d --url=... --user=... --threads=16
 ## License
 
 MIT
+
+Windows screen mirroring
+![3631](https://github.com/user-attachments/assets/9835eeb3-9569-4971-b541-82e86c33e54c)
+
+miner output
+![3632](https://github.com/user-attachments/assets/53887108-2d00-4604-a078-a672e6e74bfc)
+
+my cat picture
+![3630](https://github.com/user-attachments/assets/7bc0a16c-0569-4308-bdfe-252b9743cc6c)
+
+clock_neon+ sys info (avaiable in examples folder)
+![3629](https://github.com/user-attachments/assets/0270ec6f-e91d-4250-9176-d4501e664307)
+
+
+
+
+
