@@ -14,7 +14,7 @@ If u want to make your own pc monitoring software insted of use programs like ai
 
 U can use it to stream terminal app while leaving ur normal display clean.
 
-U can display video, images, text, 
+U can display video, images, text, drawboard, 
 ETC...
 
 End of this file u can see some examples.
